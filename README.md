@@ -12,8 +12,6 @@ This decentralized voting system enables remote, anonymous, and tamper-proof ele
 
 🧠 Built for learning and demonstration purposes, this project is ideal for those exploring how blockchain can be applied in real-world governance scenarios.
 
-🎥 **Live Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=bu-lWjeBtIE)
-
 ---
 
 ## ✨ Features
@@ -161,9 +159,6 @@ truffle migrate
 
 ✅ Visit the app at: [http://localhost:8080](http://localhost:8080)
 
-🎥 Need help setting it up? Watch the full walkthrough:
-[YouTube Setup Guide](https://www.youtube.com/watch?v=a5CJ70D2P-E)
-
 ---
 
 ## 🧾 Project Structure
@@ -187,8 +182,6 @@ truffle migrate
 
 This project is licensed under the **MIT License**.
 You're free to use, modify, and distribute it, as long as you retain the original license and attribution.
-
-🔗 [View LICENSE](https://github.com/kairos1205/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/LICENSE)
 
 ---
 
